@@ -10,6 +10,7 @@ table{
 }
 td{
     text-align: left;
+    vertical-align: top;
 }
 h2{
     color: darkgreen;
@@ -18,4 +19,7 @@ img {
     display: block;
     margin: auto;
     border: 1px solid #000000;
+  }
+  hr{
+    width: 50%;
   }
